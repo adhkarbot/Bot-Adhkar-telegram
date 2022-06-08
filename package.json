@@ -9,7 +9,7 @@
   "dependencies": {
     "figlet": "1.5.2",
     "fs-extra": "10.1.0",
-    "telegraf": "4.7.0"
+    "telegraf": "4.8.5"
   },
   "author": "ryan almalki",
   "license": "ISC"
